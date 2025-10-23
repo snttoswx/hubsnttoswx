@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="COLE_AQUI_O_LINK_DO_SEU_GIF" alt="Meu GIF"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF6bG5mZ2V1bGJ0dG5zY2V6eGx4dWZ5eGZ6c3B2eGZ6c3B2eGZ6c3B2eGZ6c3B2ejIwMDAwMA/giphy.gif"  />
 
 ###
 
@@ -43,18 +43,3 @@
 <img src="snake.svg" alt="Snake animation" />
 
 ###
-**O que você precisa fazer:**
-
-1. **Hospede seu GIF** em um desses sites:
-   - [Imgur](https://imgur.com)
-   - [Giphy](https://giphy.com)
-   - [Tenor](https://tenor.com)
-   - Ou crie um repositório no GitHub só para imagens
-
-2. **Copie o link direto** do GIF (deve terminar com `.gif`)
-
-3. **Substitua** `COLE_AQUI_O_LINK_DO_SEU_GIF` pelo link real do seu GIF
-
-**Exemplo:**
-```html
-<img align="right" height="150" src="https://media.giphy.com/media/SEU_GIF_AQUI/giphy.gif" alt="Meu GIF"  />
