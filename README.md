@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://github.com/snttoswx/hubsnttoswx/blob/main/snake.yml" alt="Snake animation" />
 
 ###
