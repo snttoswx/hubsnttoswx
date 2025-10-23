@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="snake.xml" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
