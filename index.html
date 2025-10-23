@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>snttoswx</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/jpeg" href="saints.jpeg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-container" id="backgroundContainer"></div>
+    
+    <div class="floating-elements" id="floatingElements"></div>
+    
+    <div class="hub-container">
+        <div class="profile-card">
+            <img src="saints.jpeg" alt="Saints" class="profile-img">
+            <h1 class="name">snttoswx</h1>
+            <p class="title">Desenvolvedor & Designer</p>
+            <div class="quote">
+                "A possibilidade de realizarmos um sonho é o que torna a vida interessante."
+            </div>
+            <div class="status">Online</div>
+            
+            <div class="links">
+                <a href="https://github.com/snttoswx" class="link github">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="#" class="link portfolio">
+                    <i class="fas fa-briefcase"></i>
+                </a>
+                <a href="https://www.instagram.com/rochwxs/" class="link">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </div>
+        </div>
+        
+        <div class="music-player">
+            <div class="music-info">
+                <div class="music-title">Now or Never</div>
+                <div class="music-artist">Tkandz, CXSPER</div>
+            </div>
+            <div class="music-controls">
+                <button class="control-btn" id="prevBtn">
+                    <i class="fas fa-step-backward"></i>
+                </button>
+                <button class="control-btn" id="playBtn">
+                    <i class="fas fa-play"></i>
+                </button>
+                <button class="control-btn" id="nextBtn">
+                    <i class="fas fa-step-forward"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <audio id="backgroundMusic" loop>
+        <source src="now or never (1).mp3" type="audio/mpeg">
+        Seu navegador não suporta o elemento de áudio.
+    </audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
